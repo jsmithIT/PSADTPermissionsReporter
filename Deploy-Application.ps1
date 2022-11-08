@@ -92,7 +92,7 @@ Try {
 	# Application install Path.
 	$64bitAppInstallPath = "$PSScriptRoot\Files\pr-setup.exe"
 	# Application  install parameters.
-	$64bitAppInstallParam = "LICENSE_CODE=`"22CE-2080-20E9-DFC5-31C0-F074-1930-0C79`" /QN" 
+	$64bitAppInstallParam = "LICENSE_CODE=`"CONFIDENTIAL`" /QN" 
 
 	##* Remove Application Names 
 	# Mainly used in the Pre-Installation, Pre-Uninstallation, Uninstallation and Post-Uninstallation phases.
